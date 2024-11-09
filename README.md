@@ -3,5 +3,5 @@
 
 ### 📫 How to reach me:
 - [Telegram](https://t.me/darinovyo)
-- [Email](https://mail.google.com/mail/daniararinov995@gmail.com)
+- Email: daniararinov995@gmail.com
 - Yandex mail: daniararinoff@yandex.ru
