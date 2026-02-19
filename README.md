@@ -93,17 +93,6 @@ func main() {
 - [Orders Management System](https://github.com/vegitobluefan/OrdersManagementSystem.git) - Distributed order processing system using Go and gRPC.
 - [TaskFlow](https://github.com/vegitobluefan/TaskFlow.git) - HTTP service for delayed task execution.
 
-## GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vegitobluefan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=vegitobluefan&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vegitobluefan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
 ## Contact
 
 <p align="center">
