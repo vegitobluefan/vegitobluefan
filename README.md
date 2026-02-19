@@ -1,81 +1,118 @@
+<h1 align="center">Hi, I'm Daniyar Arinov</h1>
+
 <p align="center">
-  <a href="https://github.com/vegitobluefan/vegitobluefan/blob/main/Аринов Данияр Резюме.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/▶️%20go%20run-vegito%2Fmain.go-brightgreen?style=for-the-badge&logo=go&logoColor=white" alt="go run vegitobluefan.go" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Developer+(Go+%2B+Python);Building+scalable+APIs+and+distributed+systems;Open+to+exciting+backend+opportunities">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Developer+(Go+%2B+Python);Building+scalable+APIs+and+distributed+systems;Open+to+exciting+backend+opportunities" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=vegitobluefan&style=for-the-badge&color=0ea5e9">
+    <img src="https://komarev.com/ghpvc/?username=vegitobluefan&style=for-the-badge&color=0ea5e9" alt="Profile views" />
+  </a>
+  <a href="https://github.com/vegitobluefan?tab=followers">
+    <img src="https://img.shields.io/github/followers/vegitobluefan?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/vegitobluefan/vegitobluefan/blob/main/Daniyar_Arinov_GolangDeveloperCV.pdf">
+    <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/vegitobluefan/vegitobluefan/blob/main/Daniyar_Arinov_GolangDeveloperCV.pdf">
+    <img src="https://img.shields.io/badge/%E2%96%B6%EF%B8%8F%20go%20run-vegito%2Fmain.go-22C55E?style=for-the-badge&logo=go&logoColor=white" alt="go run vegito/main.go" />
   </a>
 </p>
 
 ```go
 package main
 
-import (
-	"fmt"
-)
+import "fmt"
 
 type Developer struct {
-	Name        string
-	Role        string
-	Languages   []string
-	TechStack   []string
-	Projects    []string
-	Contact     map[string]string
-	IsOpenToJob bool
+	Name      string
+	Role      string
+	Languages []string
+	Stack     []string
+	Projects  []string
+	Contact   map[string]string
+	OpenToJob bool
 }
 
 func main() {
 	me := Developer{
-		Name:  "Аринов Данияр",
-		Role:  "Backend Developer (Golang + Python)",
-		Languages: []string{
-			"Go", "Python", "SQL", "JavaScript", "Ruby",
-		},
-		TechStack: []string{
-			"gRPC", "PostgreSQL", "Redis", "Kubernetes",
-			"Docker", "Kafka", "Prometheus", "Grafana", "GitLab CI/CD",
+		Name:      "Daniyar Arinov",
+		Role:      "Backend Developer (Golang + Python)",
+		Languages: []string{"Go", "Python", "SQL", "JavaScript", "Ruby"},
+		Stack: []string{
+			"gRPC", "PostgreSQL", "Redis", "Kubernetes", "Docker",
+			"Kafka", "Prometheus", "Grafana", "GitLab CI/CD",
 		},
 		Projects: []string{
 			"Foodgram", "StableDiffusionML", "OrdersManagementSystem",
 			"TaskFlow", "ReferralSystem_API", "Doggygram",
 		},
 		Contact: map[string]string{
-			"Email":    "daniararinov995@gmail.com",
+			"Email":    "arinov.agency@gmail.com",
 			"Telegram": "@darinovyo",
-			"GitHub":   "https://github.com/vegitobluefan",
+			"GitHub":   "github.com/vegitobluefan",
 		},
-		IsOpenToJob: true,
+		OpenToJob: true,
 	}
 
-	fmt.Println("👋 Привет! Я", me.Name)
-	fmt.Println("🔧 Специализация:", me.Role)
-	fmt.Println("💡 Технологии:", me.TechStack)
-	fmt.Println("📂 Мои проекты:", me.Projects)
-	fmt.Println("📫 Контакты:")
-	for key, value := range me.Contact {
-		fmt.Printf(" - %s: %s\n", key, value)
-	}
-
-	panic("need coffee ☕️")
+	fmt.Println("Hello, I'm", me.Name)
+	fmt.Println("Role:", me.Role)
+	fmt.Println("Tech stack:", me.Stack)
+	fmt.Println("Projects:", me.Projects)
+	fmt.Println("Open to job opportunities:", me.OpenToJob)
 }
 ```
-### 🚀 Стек технологий
 
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![gRPC](https://img.shields.io/badge/-gRPC-00c7b7?style=flat&logo=grpc)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes)
-![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FCA121?style=flat&logo=gitlab)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana)
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/gRPC-00C7B7?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+</p>
+
+## Featured Projects
+
+- [Foodgram](https://github.com/vegitobluefan/Foodgram_project.git) - Recipe sharing platform with Docker and CI/CD.
+- [StableDiffusionML](https://github.com/vegitobluefan/StableDiffusionML) - Image generation service built with FastAPI and Celery.
+- [Referral System API](https://github.com/vegitobluefan/ReferralSystem_API.git) - Django API for invite management and referral tracking.
+- [Orders Management System](https://github.com/vegitobluefan/OrdersManagementSystem.git) - Distributed order processing system using Go and gRPC.
+- [TaskFlow](https://github.com/vegitobluefan/TaskFlow.git) - HTTP service for delayed task execution.
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vegitobluefan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=vegitobluefan&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vegitobluefan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+## Contact
+
+- Email: [arinov.agency@gmail.com](mailto:arinov.agency@gmail.com)
+- Telegram: [@darinovyo](https://t.me/darinovyo)
+- GitHub: [github.com/vegitobluefan](https://github.com/vegitobluefan)
 
 ---
 
-### 🛠 Некоторые из моих проектов
-
-- 🍽️ [Foodgram](https://github.com/vegitobluefan/Foodgram_project.git) — сервис для обмена рецептами, Docker + CI/CD
-- 🎨 [StableDiffusionML](https://github.com/vegitobluefan/StableDiffusionML) — генерация изображений на FastAPI + Celery
-- 🔗 [Referral System API](https://github.com/vegitobluefan/ReferralSystem_API.git) — Django-сервис с инвайтами и трекингом
-- 🛎️ [Orders Management System](https://github.com/vegitobluefan/OrdersManagementSystem.git) — распределённая система на Go + gRPC
-- ⏱️ [TaskFlow](https://github.com/vegitobluefan/TaskFlow.git) — HTTP-сервис отложенного выполнения задач
+<p align="center">
+  <i>"Build reliable systems, keep it simple, scale it right."</i>
+</p>
 
