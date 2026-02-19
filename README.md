@@ -13,13 +13,13 @@
   <a href="https://github.com/vegitobluefan?tab=followers">
     <img src="https://img.shields.io/github/followers/vegitobluefan?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
   </a>
-  <a href="https://github.com/vegitobluefan/vegitobluefan/blob/main/Daniyar_Arinov_GolangDeveloperCV.pdf">
-    <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" />
+  <a href="https://www.linkedin.com/in/daniyar-arinov/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/vegitobluefan/vegitobluefan/blob/main/Daniyar_Arinov_GolangDeveloperCV.pdf">
+  <a href="https://github.com/vegitobluefan?tab=repositories">
     <img src="https://img.shields.io/badge/%E2%96%B6%EF%B8%8F%20go%20run-vegito%2Fmain.go-22C55E?style=for-the-badge&logo=go&logoColor=white" alt="go run vegito/main.go" />
   </a>
 </p>
@@ -106,9 +106,21 @@ func main() {
 
 ## Contact
 
-- Email: [arinov.agency@gmail.com](mailto:arinov.agency@gmail.com)
-- Telegram: [@darinovyo](https://t.me/darinovyo)
-- GitHub: [github.com/vegitobluefan](https://github.com/vegitobluefan)
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniyar-arinov/">
+    <img src="https://img.shields.io/badge/LinkedIn-Daniyar_Arinov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:arinov.agency@gmail.com">
+    <img src="https://img.shields.io/badge/Email-arinov.agency%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://t.me/darinovyo">
+    <img src="https://img.shields.io/badge/Telegram-@darinovyo-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
+
+<p align="center">
+  Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/daniyar-arinov/">daniyar-arinov</a>
+</p>
 
 ---
 
